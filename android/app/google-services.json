@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1089756825476",
+    "project_id": "covidcontactapp-c5a8f",
+    "storage_bucket": "covidcontactapp-c5a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089756825476:android:bf16cdb696ca917453bfd1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ble_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089756825476-s4klpdik8qsq2oec8b38dni1vlbdqeee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUcvmYvTRncYpImZ-XIszVd_UjAf3vLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089756825476-s4klpdik8qsq2oec8b38dni1vlbdqeee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089756825476:android:89b7bda67132638753bfd1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_covid_dashboard_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089756825476-s4klpdik8qsq2oec8b38dni1vlbdqeee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUcvmYvTRncYpImZ-XIszVd_UjAf3vLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089756825476-s4klpdik8qsq2oec8b38dni1vlbdqeee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
